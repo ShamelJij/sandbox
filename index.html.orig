@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="col"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo earum magni qui quod hic consectetur nihil veritatis iusto provident eius accusantium expedita odit, ratione voluptates praesentium quas minima omnis cumque.</p></div> 
+<<<<<<< HEAD
+    <p>Lorem ipsum dolor change consectetur adipisicing elit. Inventore change quidem dolore provident iste perferendis eum, ea et consectetur rem id libero, aspernatur sequi aperiam, possimus veniam ut. Natus, ratione!</p>
+=======
+    <p>Lorem ipsum dolor sit amet change adipisicing elit. Inventore fugiat quidem dolore change iste perferendis eum, ea et consectetur rem id libero, aspernatur sequi aperiam, possimus veniam ut. Natus, ratione!</p>
+>>>>>>> 93cf5a7 (change from b1)
+    <div><input type="button" value="submit">this is a button</div>
+    <p>Lorem ipsum dolor sit amet change adipisicing elit. Quia nulla change alias perferendis dolorem? Accusantium reprehenderit est dolorum saepe veniam expedita, at commodi iste, voluptatum placeat quo dignissimos qui deleniti.</p>
+    <p>something else</p>
+</body>
+</html> 
